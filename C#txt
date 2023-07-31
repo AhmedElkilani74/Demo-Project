@@ -1,0 +1,25 @@
+
+
+
+ Console.WriteLine("Hello Mahmoud . I Can Help You ? "); 
+            
+            int numer1 = 10, numer2 = 5;
+          
+         int sum = numer1 + numer2;
+            Console.WriteLine("\n The Summation is:" + sum);
+
+         int sub = numer1 - numer2;
+            Console.WriteLine("\n The Subtract is:" + sub);
+
+         int mul = numer1 * numer2;
+            Console.WriteLine("\n The multiply is:" + mul);
+
+         int div = numer1 / numer2;
+            Console.WriteLine("\n The divide is:" + div);
+            
+            
+            Console.ReadKey();
+
+
+
+
